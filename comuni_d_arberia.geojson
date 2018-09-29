@@ -1,0 +1,933 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Rosciano (frazione di Villa Badessa)",
+        "Nome albanese": "Badhesa",
+        "Abitanti": "3243",
+        "Note": "Arbëreshë presenti nella frazione di Villa Badessa. Unica comunità albanese dell'Abruzzo."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.03333,
+          42.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Campomarino",
+        "Nome albanese": "Këmarini",
+        "Abitanti": "6658",
+        "Note": "Comunità arbëreshe in via di estinzione. Mantiene tutt'oggi alcuni costumi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.03373,
+          41.95594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Montecilfone",
+        "Nome albanese": "Munxhufuni",
+        "Abitanti": "1588",
+        "Note": "L'albanese viene parlato abitualmente."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.83643,
+          41.90254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Portocannone",
+        "Nome albanese": "Porkanuni",
+        "Abitanti": "2544",
+        "Note": "L'albanese viene parlato abitualmente."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.00743,
+          41.91594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Ururi",
+        "Nome albanese": "Ruri",
+        "Abitanti": "3580",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.01613,
+          41.81654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Greci",
+        "Nome albanese": "Katundi",
+        "Abitanti": "840",
+        "Note": "Unica comunità arbëreshe della Campania."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.23333,
+          45.18333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Casalvecchio di Puglia",
+        "Nome albanese": "Kazallveqi",
+        "Abitanti": "2082",
+        "Note": "L'albanese viene abitualmente parlato."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.11054,
+          41.59383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Chieuti",
+        "Nome albanese": "Qefti",
+        "Abitanti": "1783",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.16594,
+          41.84464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "San Marzano di San Giuseppe",
+        "Nome albanese": "Shen Marcani",
+        "Abitanti": "9079",
+        "Note": "Unica comunità arbëreshe della provincia di Taranto."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.50561,
+          40.45442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Barile",
+        "Nome albanese": "Barilli",
+        "Abitanti": "3077",
+        "Note": "Lingua albanese parlata."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.67266,
+          40.94632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Ginestra",
+        "Nome albanese": "Zhura",
+        "Abitanti": "718",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.73456,
+          40.92982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Maschito",
+        "Nome albanese": "Mashqiti",
+        "Abitanti": "1834",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.82946,
+          40.90892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "San Costantino Albanese",
+        "Nome albanese": "Shën Kostandini Arbëresh",
+        "Abitanti": "853",
+        "Note": "Lingua albanese parlata, rito bizantino e costumi mantenuti."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.30469,
+          40.03581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "San Paolo Albanese",
+        "Nome albanese": "Shën Pali Arbëresh",
+        "Abitanti": "334",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33459,
+          40.03671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Amato",
+        "Nome albanese": "",
+        "Abitanti": "874",
+        "Note": "† Uso della lingua albanese scomparso."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4622,
+          38.94179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Andali",
+        "Nome albanese": "Dandalli",
+        "Abitanti": "954",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.76841,
+          39.01339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Caraffa di Catanzaro",
+        "Nome albanese": "Gharrafa",
+        "Abitanti": "2069",
+        "Note": "La frazione di † Ursito ha perso l'uso dell'arbëresh."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4856,
+          38.88129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Curinga",
+        "Nome albanese": "",
+        "Abitanti": "6704",
+        "Note": "† Uso dell'arbëresh scomparso."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3134,
+          38.82618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Gizzeria",
+        "Nome albanese": "Jacarisë",
+        "Abitanti": "3833",
+        "Note": "† Uso dell'arbëresh scomparso."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2033,
+          38.97999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Lamezia Terme",
+        "Nome albanese": "",
+        "Abitanti": "70674",
+        "Note": "Comunità arbëreshe presente solo nella frazione di Zangarona (Zingharona)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3092,
+          38.96589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Maida",
+        "Nome albanese": "",
+        "Abitanti": "4337",
+        "Note": "Comunità arbëreshe presente solo nella frazione di Vena di Maida (Vina)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.363,
+          38.86019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Marcedusa",
+        "Nome albanese": "Marçëdhùza",
+        "Abitanti": "556",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.83631,
+          39.02779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Acquaformosa",
+        "Nome albanese": "Firmoza",
+        "Abitanti": "1234",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.08988,
+          39.7231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Castroregio",
+        "Nome albanese": "Kastërnexhi",
+        "Abitanti": "378",
+        "Note": "Comunità arbëreshe* in via di estinzione nella frazione Farneta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.47759,
+          39.99241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Cervicati",
+        "Nome albanese": "Çervikati",
+        "Abitanti": "955",
+        "Note": "† Comunità estinta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.12829,
+          39.5425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Cerzeto",
+        "Nome albanese": "Qana",
+        "Abitanti": "1377",
+        "Note": "La frazione di Cavallerizzo (Kejverici) è disabitata dalla frana del 7 marzo 2005."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.11499,
+          39.5078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Civita",
+        "Nome albanese": "Çifti",
+        "Abitanti": "1048",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.31249,
+          39.8288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Falconara Albanese",
+        "Nome albanese": "Falkunara",
+        "Abitanti": "1406",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.09179,
+          39.27589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Firmo",
+        "Nome albanese": "Ferma",
+        "Abitanti": "2365",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.17019,
+          39.7214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Frascineto",
+        "Nome albanese": "Frasnita",
+        "Abitanti": "2378",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.26199,
+          39.8364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Lungro",
+        "Nome albanese": "Ungra",
+        "Abitanti": "NA",
+        "Note": "NA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.12458,
+          39.7383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Mongrassano",
+        "Nome albanese": "Mungraxana",
+        "Abitanti": "1694",
+        "Note": "† Comunità estinta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.11059,
+          39.5269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Plataci",
+        "Nome albanese": "Pllatëni",
+        "Abitanti": "888",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.43199,
+          39.90041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Rota Greca",
+        "Nome albanese": "Rrota",
+        "Abitanti": "1170",
+        "Note": "† Comunità estinta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.11259,
+          39.4685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "San Basile",
+        "Nome albanese": "Shën Vasili",
+        "Abitanti": "1161",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.16328,
+          39.8096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "San Benedetto Ullano",
+        "Nome albanese": "Shën Benedhiti",
+        "Abitanti": "1666",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.12379,
+          39.4271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "San Cosmo Albanese",
+        "Nome albanese": "Strigari",
+        "Abitanti": "645",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.42019,
+          39.5831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "San Demetrio Corone",
+        "Nome albanese": "Shën Mitri",
+        "Abitanti": "3748",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36149,
+          39.5699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "San Giorgio Albanese",
+        "Nome albanese": "Mbuzati",
+        "Abitanti": "1650",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.45349,
+          39.5823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "San Lorenzo del Vallo",
+        "Nome albanese": "Sullarënxa",
+        "Abitanti": "3457",
+        "Note": "† Comunità estinta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.29739,
+          39.6682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "San Martino di Finita",
+        "Nome albanese": "Shën Mërtiri",
+        "Abitanti": "1247",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.10979,
+          39.4906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Santa Sofia d'Epiro",
+        "Nome albanese": "Shën Sofia",
+        "Abitanti": "3001",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.32899,
+          39.5465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Santa Caterina Albanese",
+        "Nome albanese": "Picilia",
+        "Abitanti": "1328",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.07039,
+          39.5859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Serra d'Aiello",
+        "Nome albanese": "Serrë",
+        "Abitanti": "511",
+        "Note": "† Comunità estinta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.12749,
+          39.09029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Spezzano Albanese",
+        "Nome albanese": "Spixana",
+        "Abitanti": "7220",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.31049,
+          39.6688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Vaccarizzo Albanese",
+        "Nome albanese": "Vakarici",
+        "Abitanti": "1236",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.43289,
+          39.5854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Carfizzi",
+        "Nome albanese": "Karfici",
+        "Abitanti": "868",
+        "Note": "Lingua albanese mantenuta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.97391,
+          39.3074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Pallagorio",
+        "Nome albanese": "Puheriu",
+        "Abitanti": "1627",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.90831,
+          39.3089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "San Nicola dell'Alto",
+        "Nome albanese": "Shën Kolli",
+        "Abitanti": "1105",
+        "Note": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.97291,
+          39.2893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Contessa Entellina",
+        "Nome albanese": "Kundisë",
+        "Abitanti": "2073",
+        "Note": "Mantiene la cultura, il rito bizantino e la lingua. I costumi sono stati recentemente ripresi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.18365,
+          37.73064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Mezzojuso",
+        "Nome albanese": "Munxhifsi",
+        "Abitanti": "2867",
+        "Note": "† Estinta. Mantiene solo il rito bizantino."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.46465,
+          37.86445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Palazzo Adriano",
+        "Nome albanese": "Pallaci",
+        "Abitanti": "2340",
+        "Note": "† Estinta. Mantiene solo il rito bizantino."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.37905,
+          37.68104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Piana degli Albanesi",
+        "Nome albanese": "Hora e Arbëreshëvet",
+        "Abitanti": "6238",
+        "Note": "Comunità arbëreshe più grande e popolosa di Sicilia, unica ad aver mantenuto intatta la lingua, il rito bizantino, i costumi e la cultura."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.27974,
+          37.99795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Santa Cristina Gela",
+        "Nome albanese": "Sëndastina",
+        "Abitanti": "926",
+        "Note": "Mantiene la lingua albanese e il costume. Rito bizantino perso."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.32815,
+          37.98425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Sant'Angelo Muxaro",
+        "Nome albanese": "Shënt' Ëngjëlli",
+        "Abitanti": "NA",
+        "Note": "† Comunità estinta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.54556,
+          37.47964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Biancavilla",
+        "Nome albanese": "Callicari",
+        "Abitanti": "NA",
+        "Note": "† Comunità estinta. Influenza albanese nel dialetto siciliano parlato; presenza di cognomi albanesi."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.86708,
+          37.64515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "Bronte",
+        "Nome albanese": "",
+        "Abitanti": "NA",
+        "Note": "† Comunità estinta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.83418,
+          37.78946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nome italiano": "San Michele di Ganzaria",
+        "Nome albanese": "",
+        "Abitanti": "NA",
+        "Note": "† Comunità estinta."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.42548,
+          37.28144
+        ]
+      }
+    }
+  ]
+}
